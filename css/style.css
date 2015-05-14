@@ -5,3 +5,13 @@ body {
 div {
   border: 1px solid Chocolate;
 }
+
+.navbar {
+  background-color: #FFFFFF;
+}
+
+.navbar > .content {
+  width: 970px;
+  height: 70px;
+  margin: 0 auto;
+}
