@@ -40,7 +40,8 @@ div {
 }
 
 .navbar .links li:hover {
-  color: #4c5058;
+  color: #333333;
+  cursor: pointer;
 }
 
 .navbar .links > .active {
