@@ -39,6 +39,10 @@ div {
   margin-left: 25px;
 }
 
+.navbar .links li:hover {
+  color: #4c5058;
+}
+
 .navbar .links > .active {
   color: #4c5058;
   font-weight: 500;
