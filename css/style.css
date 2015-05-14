@@ -52,3 +52,12 @@ div {
 .logo {
   height: 70px;
 }
+
+.introduction {
+  background-image: url("../img/first-background.jpg");
+  height: 45.938rem;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: auto;
+}
