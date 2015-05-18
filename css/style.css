@@ -127,8 +127,38 @@ html {
   color: black;
 }
 
-.footer {
+.social {
   overflow: auto;
   padding-bottom: 7em;
   text-align: center;
+}
+
+.social hr {
+  border: 0;
+  border-top: 1px solid #eaebec;
+}
+
+.social h5 {
+  font-size: 1em;
+  font-weight: 400;
+  margin-bottom: 0.8em;
+}
+
+.social .icons {
+  padding-left: 0;
+}
+
+.social .icons > li {
+  border-radius: 1.5em;
+  width: 2.5em;
+  height: 2.5em;
+  display: inline-block;
+  border: 1px solid #eaebec;
+  padding: 0.65em 0;
+}
+
+.social .copy {
+  font-size: 0.9em;
+  font-weight: 300;
+  color: #838994;
 }
