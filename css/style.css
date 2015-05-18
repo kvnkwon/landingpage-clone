@@ -16,6 +16,9 @@ html {
 
 .navbar {
   background-color: #FFFFFF;
+  position: fixed;
+  width: 100%;
+  z-index: 9999;
 }
 
 .navbar > .content {
