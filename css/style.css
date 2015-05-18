@@ -8,10 +8,6 @@ html {
   box-sizing: inherit;
 }
 
-body {
-  background-color: LightGray;
-}
-
 .content {
   width: 970px;
   margin: 0 auto;
@@ -96,4 +92,34 @@ body {
   background-color: #d9400e;
   border-color: #cf3d0e;
   cursor: pointer;
+}
+
+.cases {
+  overflow: hidden;
+  padding-bottom: 7em;
+}
+
+.cases .content {
+  margin-top: 4em;
+  text-align: center;
+}
+
+.cases h2 {
+  font-size: 2.4em;
+  font-weight: 300;
+  margin: 3em 0 1.5em;
+}
+
+.cases .devices > li {
+  width: 33.3333333%;
+  float: left;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+.cases .devices h3 {
+  font-weight: 400;
+  font-size: 1.5em;
+  color: black;
 }
