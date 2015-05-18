@@ -126,3 +126,9 @@ html {
   font-size: 1.5em;
   color: black;
 }
+
+.footer {
+  overflow: auto;
+  padding-bottom: 7em;
+  text-align: center;
+}
